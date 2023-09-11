@@ -1,0 +1,57 @@
+﻿ownernum,ownername,companyname ,commodities,phonenumber,address,pincode,email
+1001,Alice Smith,Spice Elephant,Restaurant,8041714161,Banashankari,560050,alice.smith@example.com
+1002,Bob Johnson,San Churro Cafe,Restaurant,9663487993,Banashankari,560050,bob.johnson@example.com
+1003,Charlie Williams,Addhuri Udupi Bhojana,Restaurant,9620009302,Banashankari,560050,charlie.williams@example.com
+1004,David Brown,Onesta,Restaurant,"08048653961
+",Banashankari,560050,david.brown@example.com
+1005,Ella Jones,Smacznego,Restaurant,"9945230807
+",Banashankari,560050,ella.jones@example.com
+1006,Frank Miller,Abhiruchi Hotel,Restaurant,8041470003,Bannerghatta Road,560076,frank.miller@example.com
+1007,Grace Davis,Tulips,Restaurant,"08022420994
+",Bannerghatta Road,560076,grace.davis@example.com
+1008,Hannah Garcia,Tisano Cafe,Restaurant,8884440087,Bannerghatta Road,560076,hannah.garcia@example.com
+1009,Isaac Rodriguez,Cafe Kabana,Restaurant,"8884044348
+",Bannerghatta Road,560076,isaac.rodriguez@example.com
+1010,Jack Martinez,Butterly,Restaurant,7338636363,Bannerghatta Road,560076,jack.martinez@example.com
+1011,Katherine Hernandez,Aagaman Veg,Restaurant,"40956662
+",Indiranagar,560038,katherine.hernandez@example.com
+1012,Liam Lopez,Byblos,Restaurant,"08025200411
+",Indiranagar,560038,liam.lopez@example.com
+1013,Mia Gonzalez,The Restaurant - Coorg,Restaurant,"9448200122
+",Indiranagar,560038,mia.gonzalez@example.com
+1014,Noah Wilson,Copper Chimney,Restaurant,"8043757714
+",Indiranagar,560038,noah.wilson@example.com
+1015,Olivia Smith,Annapoorani,Restaurant,"
+9845044470",Indiranagar,560038,olivia.smith@example.com
+1016,Penelope Johnson,Angeethi,Restaurant,8041113340,Church Street ,560017,penelope.johnson@example.com
+1017,Quinn Williams,Drinks on MG,Restaurant,8041123512,Church Street ,560017,quinn.williams@example.com
+1018,Ryan Brown,Celio ,Garments,8067922393,Vega City ,560076,ryan.brown@example.com
+1019,Sophia Jones,Assesorize London,Garments,805643214,Vega City ,560076,sophia.jones@example.com
+1020,Thomas Miller,Lifestyle,Garments,18001231555,Vega City ,560076,thomas.miller@example.com
+1021,Uma Davis,Van Heusen,Garments,8067922373,Vega City ,560076,uma.davis@example.com
+1022,Victor Garcia,Manyavar,Garments,8067922464,Vega City ,560076,victor.garcia@example.com
+1023,William Rodriguez,Max ,Garments,8040945524,JP Nagar,560078,william.rodriguez@example.com
+1024,Xander Martinez,Raymond,Garments,8048537145,JP Nagar,560078,xander.martinez@example.com
+1025,Yasmine Hernandez,Fabindia Store,Garments,9513195151,JP Nagar,560078,yasmine.hernandez@example.com
+1026,Zachary Lopez,Soch,Garments,8040921010,JP Nagar,560078,zachary.lopez@example.com
+1027,Aiden Smith,W for Women ,Garments,7583896939,Indiranagar ,560038,aiden.smith@example.com
+1028,Brooke Johnson,Aster RV Hospital,Hospital,8066040400,JP Nagar ,560078,brooke.johnson@example.com
+1029,Caleb Williams,Lenus Hospital,Hospital, 09353216048,JP Nagar ,560078,caleb.williams@example.com
+1030,Daisy Brown,Shekar Eye Hospital,Hospital,9980562020,JP Nagar ,560078,daisy.brown@example.com
+1031,Ethan Jones,Ictus Brain & Spine Clinic,Hospital,9916620447,JP Nagar ,560078,ethan.jones@example.com
+1032,Fiona Miller,Kartik's Neurospine Clinic 2,Hospital,9845602888,JP Nagar ,560078,fiona.miller@example.com
+1031,Gavin Davis,Revive Hospitals Indiranagar,Hospital,9845334422,Indiranagar,560038,gavin.davis@example.com
+1032,Haley Garcia,Chinmaya Mission Hospital,Hospital,8025026100,Indiranagar,560038,haley.garcia@example.com
+1033,Ian Rodriguez,Axon Speciality Hospital,Hospital,8043346333,Indiranagar,560038,ian.rodriguez@example.com
+1034,Jade Martinez,S.R.Gopal Rao Opticians,Hospital,8041161634,Indiranagar,560038,jade.martinez@example.com
+1035,Kaden Hernandez,Sevakshetra Hospital,Hospital,8026714194,Banashankari ,560070,kaden.hernandez@example.com
+1036,Lily Lopez,Vinayaka Hospital,Hospital,8026794148,Banashankari ,560070,lily.lopez@example.com
+1037,Mason Gonzalez,Fortis ,Hospital,096633 67253,Bannerghatta Road ,560076,mason.gonzalez@example.com
+1039,Natalie Wilson,Vibes Healthcare Ltd,Salon,9980599835,JP Nagar ,560076,natalie.wilson@example.com
+1040,Oliver Smith,Jawe Habib Hair & Beauty Salon,Salon,9980022588,JP Nagar ,560076,oliver.smith@example.com
+1041,Peyton Johnson,Lakme,Salon,9980127464,JP Nagar ,560076,peyton.johnson@example.com
+1042,Quinn Williams,Vibes Healthcare Ltd,Salon,9014567234,JP Nagar ,560076,quinn.williams@example.com
+1043,Riley Brown,Bounce,Salon,8880903903,Indiranagar,560038,riley.brown@example.com
+1044,Sophia Jones,Jean-Claude Biguine Salon & Spa,Salon,9845602888,Indiranagar,560038,sophia.jones@example.com
+1045,Tyler Miller,BBLUNT Salon ,Salon,8037762856,Indiranagar,560038,tyler.miller@example.com
+,,,,,,,
